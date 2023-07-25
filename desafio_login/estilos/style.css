@@ -40,7 +40,7 @@ section#login {
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.432);
 
-    transition: width 1s, height 1s ;
+    transition: width 0.3s, height 0.3s ;
     transition-timing-function: ease;
 }
 
